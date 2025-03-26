@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "70b47b44-9e83-48d1-829e-3b82e5fce691",
-          "name": "SSS",
+          "name": "SSSs",
           "slug": "70b47b44-9e83-48d1-829e-3b82e5fce691",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-03-26T12:07:45.828Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-03-26T12:07:45.828Z",
+          "updatedAt": "2025-03-26T12:10:30.100Z",
           "editingVersion": {
             "id": "cc9db925-66ec-4fd4-ba46-7bd98023c750",
             "name": "v1",
